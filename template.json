@@ -5,7 +5,7 @@
   "owner": "prism-studio",
   "slug": "visual-art-h-kaleido",
   "website": "https://motiongit.com/@prism-studio/visual-art-h-kaleido",
-  "version": "2.6.4",
+  "version": "2.6.5",
   "technical": {
     "en": [
       "Declared runtime profile: html-canvas/1.",
@@ -18,8 +18,8 @@
       "已声明时间轴为固定时长，本期内容按现有场景顺序和节奏适配。"
     ]
   },
-  "checkedAt": "2026-10-20",
-  "availability": "download-available",
+  "checkedAt": "2026-11-17",
+  "availability": "demo-only",
   "title": {
     "en": "Mirror Kaleidoscope · Photo Motion",
     "zh": "镜像万花筒 · 照片变幻"

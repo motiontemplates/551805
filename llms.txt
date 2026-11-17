@@ -1,8 +1,8 @@
 # Mirror Kaleidoscope · Photo Motion · MotionGit .motion
 
 Template and full package: https://motiongit.com/@prism-studio/visual-art-h-kaleido
-Version: 2.6.4
-Download available; current terms are listed with the package.
+Version: 2.6.5
+Demo available. Check the official page for current download availability.
 
 Declared runtime profile: html-canvas/1.
 Editable inputs are mapped through the template parameter schema and preset to its existing animation project.
